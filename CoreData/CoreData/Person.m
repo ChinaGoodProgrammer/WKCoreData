@@ -10,5 +10,17 @@
 #import <CoreData/CoreData.h>
 
 @implementation Person
-
+//{
+//    NSString *_wang;
+//}
+//
+//- (void)setWang:(NSString *)wang
+//{
+//    _wang = wang;
+//}
+//
+//- (NSString *)wang
+//{
+//    return _wang;
+//}
 @end
